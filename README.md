@@ -1,7 +1,7 @@
 # Cryptography_projects
 Implementation of Simple substitution cipher, Double Transposition cipher, A5, Tea, Cmea, Knapsack, Pkzip, RSA, Rabin cipher.
 
-The program name are named after the their respective ciphering name so as to providE a Clear Picture.
+The program names are named after the their respective algorithm name so as to avoid confusion.
 
 # Instructions:
 
